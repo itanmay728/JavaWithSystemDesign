@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/Day9/Day9.iml" filepath="$PROJECT_DIR$/Day9/Day9.iml" />
       <module fileurl="file://$PROJECT_DIR$/Projects/Project1(GuesserGame)/Project1(GuesserGame).iml" filepath="$PROJECT_DIR$/Projects/Project1(GuesserGame)/Project1(GuesserGame).iml" />
       <module fileurl="file://$PROJECT_DIR$/Projects/Projects.iml" filepath="$PROJECT_DIR$/Projects/Projects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String/String.iml" filepath="$PROJECT_DIR$/String/String.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/javaWithSystemDesign.iml" filepath="$PROJECT_DIR$/.idea/javaWithSystemDesign.iml" />
     </modules>
   </component>
